@@ -1,9 +1,9 @@
 {
-  "name": "pinia-plugin-persist",
+  "name": "@bkuns/pinia-plugin-persist",
   "version": "1.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Seb-L/pinia-plugin-persist.git"
+    "url": "https://github.com/BkunS/pinia-plugin-persist.git"
   },
   "scripts": {
     "dev": "vite",
