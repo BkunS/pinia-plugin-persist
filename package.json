@@ -1,6 +1,6 @@
 {
   "name": "pinia-plugin-persist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/Seb-L/pinia-plugin-persist.git"
@@ -50,9 +50,8 @@
     "vue-demi": "^0.12.1"
   },
   "peerDependencies": {
-    "@vue/composition-api": "^1.0.0",
     "pinia": "^2.0.0",
-    "vue": "^2.0.0 || >=3.0.0"
+    "vue": ">=3.0.0"
   },
   "peerDependenciesMeta": {
     "@vue/composition-api": {
